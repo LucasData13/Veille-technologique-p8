@@ -4,10 +4,12 @@ Le projet de formation se divise en deux parties principales :
 
 ### Première partie : Dashboard de Scoring Client
 L'objectif est de développer un dashboard interactif pour les chargés de relation client de "Prêt à dépenser". Ce dashboard expliquera de manière transparente les décisions d'octroi de crédit en utilisant les données et API de scoring existantes. Il affichera : le score de crédit, la probabilité de remboursement, des comparaisons descriptives entre un client et l'ensemble des clients, le dashboard doit respecter les critères d'accessibilité WCAG.
+
 ![image dashboard](dashboard.JPG)
 
 ### Deuxième partie : État de l'Art et Proof of Concept
 Cette partie vise à comparer une technique récente de modélisation de données texte ou images avec une approche classique déjà implémentée. Un proof of concept sera développé pour illustrer l'application pratique de la nouvelle technique.
+
 ![image dashboard](CLIP.JPG)
 
 ### Étapes clés :
